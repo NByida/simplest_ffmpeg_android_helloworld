@@ -1,0 +1,70 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld",
+      "sdkFolder": "/home/yida/worksapce/androidSdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "ideBuildTargetAbi": "arm64-v8a,armeabi-v7a,armeabi",
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/build/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app",
+      "makeFile": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/.cxx",
+      "cxxFolder": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/.cxx",
+      "ndkFolder": "/home/yida/worksapce/ndk/android-ndk-r14b",
+      "ndkVersion": "14.1.3816874",
+      "ndkSupportedAbiList": [
+        "ARMEABI",
+        "ARMEABI_V7A",
+        "X86",
+        "MIPS"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI",
+        "ARMEABI_V7A",
+        "X86",
+        "MIPS"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      ""
+    ],
+    "variantName": "debug",
+    "soFolder": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/build/intermediates/cmake/debug/lib",
+    "objFolder": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/build/intermediates/cmake/debug/obj",
+    "jsonFolder": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/.cxx/cmake/debug",
+    "gradleBuildOutputFolder": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 9,
+  "cxxBuildFolder": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/.cxx/cmake/debug/armeabi-v7a",
+  "jsonFile": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/.cxx/cmake/debug/armeabi-v7a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/.cxx/cxx/debug/armeabi-v7a",
+  "objFolder": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/build/intermediates/cmake/debug/obj/armeabi-v7a",
+  "buildCommandFile": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/.cxx/cmake/debug/armeabi-v7a/build_command.txt",
+  "buildOutputFile": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/.cxx/cmake/debug/armeabi-v7a/build_output.txt",
+  "modelOutputFile": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/.cxx/cmake/debug/armeabi-v7a/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/.cxx/cxx/debug/armeabi-v7a/CMakeLists.txt",
+    "toolchainWrapperFile": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/.cxx/cxx/debug/armeabi-v7a/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/.cxx/cxx/debug/armeabi-v7a/build_generation_state.json",
+    "cacheKeyFile": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/.cxx/cxx/debug/armeabi-v7a/compiler_cache_key.json",
+    "compilerCacheUseFile": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/.cxx/cxx/debug/armeabi-v7a/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/.cxx/cxx/debug/armeabi-v7a/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/.cxx/cxx/debug/armeabi-v7a/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/.cxx/cmake/debug/armeabi-v7a/json_generation_record.json",
+  "compileCommandsJsonFile": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/.cxx/cmake/debug/armeabi-v7a/compile_commands.json"
+}

@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "7,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "335,626",
+                        "endLines": "13,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "621,781"
+                    }
+                },
+                {
+                    "source": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,3,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "118,56,169",
+                        "endColumns": "50,61,52",
+                        "endOffsets": "164,113,217"
+                    },
+                    "to": {
+                        "startLines": "4,5,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "169,220,282",
+                        "endColumns": "50,61,52",
+                        "endOffsets": "215,277,330"
+                    }
+                },
+                {
+                    "source": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}

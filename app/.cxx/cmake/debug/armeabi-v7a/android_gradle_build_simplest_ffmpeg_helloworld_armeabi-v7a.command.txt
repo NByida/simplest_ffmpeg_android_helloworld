@@ -1,0 +1,8 @@
+Executable : /home/yida/worksapce/androidSdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+--build
+/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/.cxx/cmake/debug/armeabi-v7a
+--target
+simplest_ffmpeg_helloworld
+jvmArgs : 
+

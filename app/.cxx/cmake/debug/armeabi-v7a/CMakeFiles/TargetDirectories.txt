@@ -1,0 +1,3 @@
+/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/simplest_ffmpeg_helloworld.dir

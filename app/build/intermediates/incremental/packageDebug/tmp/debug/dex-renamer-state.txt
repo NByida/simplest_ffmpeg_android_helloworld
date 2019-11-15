@@ -1,0 +1,4 @@
+#Fri Nov 15 17:45:12 CST 2019
+base.0=/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

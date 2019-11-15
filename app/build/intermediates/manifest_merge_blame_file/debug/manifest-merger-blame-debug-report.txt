@@ -1,0 +1,58 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.leixiaohua1020.sffmpegandroidhelloworld"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/src/main/AndroidManifest.xml:12:5-47
+8        android:minSdkVersion="8"
+8-->/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/src/main/AndroidManifest.xml:12:5-47
+9        android:targetSdkVersion="18" />
+9-->/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/src/main/AndroidManifest.xml:12:15-44
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/src/main/AndroidManifest.xml:7:5-81
+11-->/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/src/main/AndroidManifest.xml:7:22-78
+12    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+12-->/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/src/main/AndroidManifest.xml:8:5-71
+12-->/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/src/main/AndroidManifest.xml:8:22-68
+13    <uses-permission android:name="android.permission.RECORD_VIDEO" />
+13-->/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/src/main/AndroidManifest.xml:9:5-70
+13-->/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/src/main/AndroidManifest.xml:9:22-68
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/src/main/AndroidManifest.xml:10:5-67
+14-->/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/src/main/AndroidManifest.xml:10:22-64
+15
+16    <application
+16-->/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/src/main/AndroidManifest.xml:14:5-28:19
+17        android:allowBackup="true"
+17-->/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/src/main/AndroidManifest.xml:15:9-35
+18        android:debuggable="true"
+19        android:icon="@drawable/ic_launcher"
+19-->/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/src/main/AndroidManifest.xml:16:9-45
+20        android:label="@string/app_name"
+20-->/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/src/main/AndroidManifest.xml:17:9-41
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme" >
+22-->/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/src/main/AndroidManifest.xml:18:9-40
+23        <activity
+23-->/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/src/main/AndroidManifest.xml:19:9-27:20
+24            android:name="com.leixiaohua1020.sffmpegandroidhelloworld.MainActivity"
+24-->/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/src/main/AndroidManifest.xml:20:13-84
+25            android:label="@string/app_name" >
+25-->/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/src/main/AndroidManifest.xml:21:13-45
+26            <intent-filter>
+26-->/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/src/main/AndroidManifest.xml:22:13-26:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/src/main/AndroidManifest.xml:23:17-69
+27-->/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/src/main/AndroidManifest.xml:23:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/src/main/AndroidManifest.xml:25:17-77
+29-->/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/src/main/AndroidManifest.xml:25:27-74
+30            </intent-filter>
+31        </activity>
+32    </application>
+33
+34</manifest>

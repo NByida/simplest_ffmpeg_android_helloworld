@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/yida/worksapce/androidSdk/cmake/3.6.4111459/bin/cmake --build /home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/.cxx/cmake/debug/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "simplest_ffmpeg_helloworld-Debug-armeabi-v7a": {
+      "artifactName": "simplest_ffmpeg_helloworld",
+      "buildCommand": "/home/yida/worksapce/androidSdk/cmake/3.6.4111459/bin/cmake --build /home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/.cxx/cmake/debug/armeabi-v7a --target simplest_ffmpeg_helloworld",
+      "abi": "armeabi-v7a",
+      "output": "/home/yida/StudioProjects/simplest_ffmpeg_android_helloworld/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libsimplest_ffmpeg_helloworld.so"
+    }
+  }
+}
